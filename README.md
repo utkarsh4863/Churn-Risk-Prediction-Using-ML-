@@ -56,7 +56,8 @@ python app.py
 ## 📸 Project Screenshots
 
 ### 📊 Prediction Result Page
-![Prediction Result](https://raw.githubusercontent.com/utkarsh4863/Churn-Risk-Prediction-Using-ML-/refs/heads/main/Screenshot.png.png)
+![Prediction Result](https://raw.githubusercontent.com/utkarsh4863/Churn-Risk-Prediction-Using-ML-/main/Screenshot.png)
+
 
 ### ✅ Instructions
 - Create a new file in VS Code or directly on GitHub → name it `README.md`  

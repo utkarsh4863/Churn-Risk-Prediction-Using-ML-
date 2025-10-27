@@ -9,7 +9,7 @@ It’s designed for businesses that want to:
 - Improve customer retention strategies  
 - Make data-driven marketing and customer success decisions  
 
-The project combines **data preprocessing**, **feature engineering**, and a **trained ML model (e.g., XGBoost, Random Forest, or Logistic Regression)** integrated with a simple **Flask web interface**.  
+The project combines **data preprocessing**, **feature engineering**, and a **trained ML model (e.g., XGBoost, Random Forest)** integrated with a simple **Flask web interface**.  
 Users can input customer details via a form and instantly get the **predicted churn risk** displayed on the web page.
 
 ---
@@ -33,9 +33,18 @@ To build a lightweight, easy-to-use predictive analytics tool that helps organiz
 - Predict customer churn based on key customer data  
 - User-friendly web interface built with Flask  
 - Integrated machine learning model for real-time predictions  
-- Supports easy deployment and testing  
-
+- Supports easy deployment and testing
+- 
 ---
+## 🧩 Tech Stack
+
+| Category | Tools |
+|-----------|--------|
+| **Language** | Python 🐍 |
+| **Framework** | Flask |
+| **ML Libraries** | scikit-learn, pandas, numpy, XGBoost |
+| **Visualization** | matplotlib, seaborn |
+| **Deployment** | Flask / GitHub |
 
 ## ⚙️ Installation & Setup
 

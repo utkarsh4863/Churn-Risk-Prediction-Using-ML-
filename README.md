@@ -53,6 +53,11 @@ pip install -r requirements.txt
 # 6️⃣ Run the Flask app
 python app.py
 
+## 📸 Project Screenshots
+
+### 📊 Prediction Result Page
+![Prediction Result]()
+
 ### ✅ Instructions
 - Create a new file in VS Code or directly on GitHub → name it `README.md`  
 - Paste this content exactly as-is  

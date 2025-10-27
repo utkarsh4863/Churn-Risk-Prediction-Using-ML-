@@ -1,6 +1,31 @@
 # 🚀 Customer Churn Prediction Using Machine Learning
 
-A Flask-based web application that predicts customer churn risk using machine learning algorithms.
+This project is a **Flask-based web application** that predicts the likelihood of a customer leaving (or "churning") a business based on their behavior and account information.
+
+The system uses **Machine Learning (ML)** models trained on customer data (such as usage patterns, demographics, and service history) to generate predictions about whether a customer is likely to churn.
+
+It’s designed for businesses that want to:
+- Identify at-risk customers before they leave  
+- Improve customer retention strategies  
+- Make data-driven marketing and customer success decisions  
+
+The project combines **data preprocessing**, **feature engineering**, and a **trained ML model (e.g., XGBoost, Random Forest, or Logistic Regression)** integrated with a simple **Flask web interface**.  
+Users can input customer details via a form and instantly get the **predicted churn risk** displayed on the web page.
+
+---
+
+### 🧩 Key Components
+- **Machine Learning Model** – Trained to classify customers into “Churn” or “Not Churn” based on historical data  
+- **Flask Backend** – Serves the model and handles user input/output  
+- **HTML/CSS Frontend** – Simple UI for submitting customer data and viewing results  
+- **Preprocessing Pipeline** – Cleans and scales input data before prediction  
+
+
+---
+
+### 🎯 Objective
+To build a lightweight, easy-to-use predictive analytics tool that helps organizations **understand customer behavior** and **minimize churn** by acting proactively on the model’s insights.
+
 
 ---
 

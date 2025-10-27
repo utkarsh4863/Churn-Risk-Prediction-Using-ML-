@@ -34,7 +34,7 @@ To build a lightweight, easy-to-use predictive analytics tool that helps organiz
 - User-friendly web interface built with Flask  
 - Integrated machine learning model for real-time predictions  
 - Supports easy deployment and testing
-- 
+  
 ---
 ## 🧩 Tech Stack
 
@@ -45,6 +45,8 @@ To build a lightweight, easy-to-use predictive analytics tool that helps organiz
 | **ML Libraries** | scikit-learn, pandas, numpy, XGBoost |
 | **Visualization** | matplotlib, seaborn |
 | **Deployment** | Flask / GitHub |
+
+---
 
 ## ⚙️ Installation & Setup
 
